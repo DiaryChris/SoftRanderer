@@ -1,0 +1,17 @@
+﻿  SoftRenderer.cpp
+e:\project\vs\softrenderer\softrenderer\softrenderer.cpp(691): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\project\vs\softrenderer\softrenderer\softrenderer.cpp(737): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\project\vs\softrenderer\softrenderer\softrenderer.cpp(738): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\project\vs\softrenderer\softrenderer\softrenderer.cpp(740): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\project\vs\softrenderer\softrenderer\softrenderer.cpp(745): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\project\vs\softrenderer\softrenderer\softrenderer.cpp(763): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\project\vs\softrenderer\softrenderer\softrenderer.cpp(765): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\project\vs\softrenderer\softrenderer\softrenderer.cpp(766): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\project\vs\softrenderer\softrenderer\softrenderer.cpp(771): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\project\vs\softrenderer\softrenderer\softrenderer.cpp(773): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\project\vs\softrenderer\softrenderer\softrenderer.cpp(774): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\project\vs\softrenderer\softrenderer\softrenderer.cpp(876): warning C4101: “v”: 未引用的局部变量
+e:\project\vs\softrenderer\softrenderer\softrenderer.cpp(876): warning C4101: “u”: 未引用的局部变量
+e:\project\vs\softrenderer\softrenderer\softrenderer.cpp(1180): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\project\vs\softrenderer\softrenderer\softrenderer.cpp(1181): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  SoftRenderer.vcxproj -> E:\Project\VS\SoftRenderer\Debug\SoftRenderer.exe
